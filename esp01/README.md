@@ -34,8 +34,14 @@ del LED_PIN
 print('end')
 ```
 
-![image](https://github.com/user-attachments/assets/095b262e-093f-4ff7-aba0-94fea9f249b8)
-
 
 8. Тепер буде тричі блимати під час старту :)
-8. 
+
+---
+
+Фікс USB-UART esp01 допайкою 2 кнопок BOOT, RESET
+
+https://www.instructables.com/USB-ESP-01-Programmer-Modification-for-Boot-Mode-a/
+
+![image](https://github.com/user-attachments/assets/12051345-d96b-4a2a-bf26-7e31857398b4)
+
