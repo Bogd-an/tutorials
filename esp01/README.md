@@ -34,6 +34,9 @@ del LED_PIN
 print('end')
 ```
 
+![image](https://github.com/user-attachments/assets/b3708525-7bf5-486a-a5f6-1b93205f5c02)
+
+
 8. Тепер буде тричі блимати під час старту :)
 
 ---
