@@ -4,7 +4,7 @@
 
 1. На сайті [esptool-js](https://espressif.github.io/esptool-js/) Program-Connect та вибираємо COM порт
 
-2. Вписуємо адресу 0x0000 та файл [micropython esp01 bin](https://micropython.org/resources/firmware/ESP8266_GENERIC-OTA-20240602-v1.23.0.bin)
+2. Вписуємо адресу `0x0000` та файл [micropython esp01 bin](https://micropython.org/resources/firmware/ESP8266_GENERIC-OTA-20240602-v1.23.0.bin)
 
 3. Затискаємо кнопки BOOT, RESET. Відпускаємо RESET потім BOOT.
 
