@@ -10,4 +10,5 @@ winget install -e --id Notepad++.Notepad++
 winget install --id=Python.Python.3.13  -e
 winget install --id Bitwarden.Bitwarden
 winget install -e --id M2Team.NanaZip
+winget install -e --id Telegram.TelegramDesktop
 ```
